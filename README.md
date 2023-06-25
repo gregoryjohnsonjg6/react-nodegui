@@ -104,21 +104,6 @@ React NodeGUI is an open source project and requires your support. If you like t
 
 https://github.com/nodegui/.github/blob/master/CODE_OF_CONDUCT.md
 
-## License
-
-MIT
-
-## Maintainers ✨
-
-People maintaining this project.
-
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://blog.atulr.com"><img src="https://avatars2.githubusercontent.com/u/4029423?v=4" width="100px;" alt="Atul R"/><br /><sub><b>Atul R</b></sub></a></td>
-  </tr>
-</table>
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
